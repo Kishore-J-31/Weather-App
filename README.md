@@ -1,18 +1,55 @@
-# React + Vite
+✅ Weather Forecast Web Application — Project Description
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The Weather Forecast Web Application is a modern, responsive, and user-friendly weather dashboard built using React and Vite. It provides real-time and forecasted weather information for any location worldwide using the Visual Crossing Weather API. Designed with a clean dashboard UI, the application focuses on clarity, accessibility, and smooth user experience.
 
-Currently, two official plugins are available:
+The homepage displays the current temperature, weather condition, humidity, wind speed, visibility, precipitation probability, and additional highlights such as UV index, sunrise, sunset, and air quality. Users can search for any city, switch between Today and Weekly weather views, and toggle temperature units between Celsius (°C) and Fahrenheit (°F).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The app dynamically updates its background theme and weather icons based on actual weather conditions (e.g., clear, rain, cloudy, night). It uses React’s state management and hooks (useState, useEffect, useMemo) to fetch and display accurate weather data efficiently. Vite ensures extremely fast development build times and seamless hot reloading.
 
-## React Compiler
+This project demonstrates strong skills in frontend development, API integration, UI/UX design, responsive layout building, and clean component architecture. It is fully optimized for desktops and mobiles, making weather information easily accessible anytime.
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+⭐ Key Features
 
-Note: This will impact Vite dev & build performances.
+Real-time weather data using Visual Crossing API
 
-## Expanding the ESLint configuration
+Search bar for querying any city worldwide
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Today and Weekly forecast modes
+
+Temperature unit switch (°C / °F)
+
+Dynamic weather icons & background images
+
+Highlights section (UV Index, Humidity, Wind, Sunrise/Sunset, Visibility, Air Quality)
+
+Fully responsive modern UI design
+
+Built with React + Vite for fast performance
+
+Clean, optimized code with reusable logic
+
+📌 Technologies Used
+
+React (functional components & hooks)
+
+Vite (lightning-fast bundler)
+
+CSS3 (custom responsive styling)
+
+Visual Crossing Weather API
+
+JavaScript (ES6+)
+
+📝 Use Case
+
+This project is ideal for:
+
+Weather monitoring
+
+Learning how to integrate REST APIs
+
+Portfolio demonstration
+
+Frontend development practice
+
+Modern UI/UX experimentation
